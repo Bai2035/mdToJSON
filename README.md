@@ -37,12 +37,12 @@
     },
     "body": [
         {
-            type: "h1",
-            content: "h1 text" 
+            "type": "h1",
+            "content": "h1 text" 
         },
         {
-            type: "p"
-            content: [
+            "type": "p"
+            "content": [
                 "some plain text.",
                 {
                     type: "em",
