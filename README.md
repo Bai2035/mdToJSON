@@ -34,20 +34,20 @@
             "value1",
             "value2"
         ]
-    }
+    },
     "body": [
         {
-            type: "h1"
+            type: "h1",
             content: "h1 text" 
-        }
+        },
         {
             type: "p"
             content: [
-                "some plain text."
+                "some plain text.",
                 {
-                    type: "em"
+                    type: "em",
                     content: "em text."
-                }
+                },
                 "some other text."
             ]
         }
