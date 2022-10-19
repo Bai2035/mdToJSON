@@ -45,8 +45,8 @@
             "content": [
                 "some plain text.",
                 {
-                    type: "em",
-                    content: "em text."
+                    "type": "em",
+                    "content": "em text."
                 },
                 "some other text."
             ]
